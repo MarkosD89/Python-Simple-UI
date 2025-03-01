@@ -12,6 +12,6 @@ In the dependencies, you can locate all relevant files used in this Software:
 
 # Data
 The current version of the software can read .csv files
-
+A bash script was made to generate various csv files with different values
 UT.py contains Unit Test script for the individual scripts
 
